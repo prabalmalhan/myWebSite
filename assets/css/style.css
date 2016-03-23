@@ -27,8 +27,10 @@
 -------------------------------------
 =====================================
 */
-
-
+/*MY class for works section*/
+.stretcher{
+    height: 150%;
+}
 body{
     font-family: 'Roboto', sans-serif;
     line-height: 28px;
